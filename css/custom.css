@@ -1,17 +1,24 @@
+
+
+
 body {
   background: #ff3e00;
 }
-
 
 /*---Navbar and Logo---*/
 #Logo {
   transition: all 0.3s;
 }
+
 .largeLogo {
-  width: 180px;
+    width: 300px;
+    padding: 0px;
+    margin-left: -61px;
+    margin-top: -15px;
 }
+
 .smallLogo {
-  width: 80px;
+  width: 140px;
 }
 
 .fixed-top {
@@ -486,6 +493,13 @@ figure.snip1104.hover:before {
     font-weight: bold;
     letter-spacing: 2px;
   }
+
+  .largeLogo {
+    width: 300px;
+    padding: 0px;
+    margin-left: -48px;
+    margin-top: -13px;
+}
 }
 
 
